@@ -35,34 +35,33 @@ The following screenshots demonstrate each step of the project implementation:
 
 1. **Creating the S3 Bucket**:
 
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png1)
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png2)
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png3)
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png4)
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png5)
-   ![Creating S3 Bucket](screenshots/create-s3-bucket.png6)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket1.png)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket2.png)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket3.png)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket4.png)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket5.png)
+   ![Creating S3 Bucket](screenshots/create-s3-bucket6.png)
 
-3. **Uploading Website Files**:
+2. **Uploading Website Files**:
 
-   ![Uploading Files](screenshots/upload-files.png1)
-   ![Uploading Files](screenshots/upload-files.png2)
-   ![Uploading Files](screenshots/upload-files.png3)
-   ![Uploading Files](screenshots/upload-files.png4)
+   ![Uploading Files](screenshots/upload-files1.png)
+   ![Uploading Files](screenshots/upload-files2.png)
+   ![Uploading Files](screenshots/upload-files3.png)
+   ![Uploading Files](screenshots/upload-files4.png)
 
-4. **Creating CloudFront Distribution with OAI**:
+3. **Creating CloudFront Distribution with OAI**:
 
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png1)
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png2)
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png3)
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png4)
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png5)
-   ![CloudFront Distribution](screenshots/cloudfront-setup.png6)
+   ![CloudFront Distribution](screenshots/cloudfront-setup1.png)
+   ![CloudFront Distribution](screenshots/cloudfront-setup2.png)
+   ![CloudFront Distribution](screenshots/cloudfront-setup3.png)
+   ![CloudFront Distribution](screenshots/cloudfront-setup4.png)
+   ![CloudFront Distribution](screenshots/cloudfront-setup5.png)
+   ![CloudFront Distribution](screenshots/cloudfront-setup6.png)
 
-5. **Final Website Output**:
+4. **Final Website Output**:
 
-   ![Website Output](screenshots/website-output.png1)
-   ![Website Output](screenshots/website-output.png2)
-   
+   ![Website Output](screenshots/website-output1.png)
+   ![Website Output](screenshots/website-output2.png)
 
 ## Key Learnings
 - Understanding S3 static website hosting and automatic permissions with CloudFront OAI.
