@@ -24,7 +24,6 @@ The architecture involves:
    - Created a CloudFront distribution with the S3 bucket as the origin.
    - Configured the distribution to use `index.html` as the default root object.
    - Enabled CloudFront Origin Access Identity (OAI) to automatically create the necessary S3 bucket policy for secure access.
-   - Set up an SSL/TLS certificate for HTTPS.
 
 3. **Tested the Website:**
    - Accessed the website through the CloudFront distribution URL.
